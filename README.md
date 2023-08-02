@@ -29,8 +29,6 @@ The workflow is scheduled to run every Sunday at midnight (UTC time) using a cro
 
 The workflow uses the following environment variables:
 
-- `ACTIONS_RUNNER_DEBUG`: When set to `true`, it enables additional debug information during the workflow run.
-
 - `last_tag`: Holds the last released version retrieved from the repository tags.
 
 - `version`: Holds the incremented minor version that will be used to create the new release branch.
