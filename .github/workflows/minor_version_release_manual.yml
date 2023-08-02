@@ -2,9 +2,6 @@ name: Manually Create Minor Release Branch
 
 on:
   workflow_dispatch:
-
-env:
-  ACTIONS_RUNNER_DEBUG: true
   
 jobs:
   create_release_branch:
