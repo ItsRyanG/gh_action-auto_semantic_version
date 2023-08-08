@@ -1,4 +1,4 @@
-# incremental_version_naming
+# AutoSemanticVersion-Action
 Here's an example of utilizing GitHub Actions for automated release branches.
 
 This GitHub Actions workflow, `Scheduled Create Minor Release Branch`, is designed to automatically create a new release branch with an incremented minor version. The workflow runs on a weekly schedule, every Sunday.
