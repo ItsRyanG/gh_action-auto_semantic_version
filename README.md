@@ -1,4 +1,4 @@
-# AutoSemanticVersion-Action
+# Github Action - Automatic Semantic Versioning
 Here's an example of utilizing GitHub Actions for automated release branches.
 
 This GitHub Actions workflow, `Scheduled Create Minor Release Branch`, is designed to automatically create a new release branch with an incremented minor version.
@@ -35,4 +35,4 @@ The workflow is triggered automatically based on the schedule defined in the `on
 
 Please note that the workflow is optimized for repositories following semantic versioning conventions. The workflow incrementally increases the minor version for each release branch.
 
-For any issues or questions related to this workflow, feel free to reach out to the repository maintainers.
+For any issues or questions related to this workflow, feel free to reach out to me.
